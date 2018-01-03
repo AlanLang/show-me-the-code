@@ -1,9 +1,3 @@
----
-title: Python 练习题（一）
-date: 2018-01-03 14:34
-tags: Python
-categories: Python 练习题
----
 2018年1月3日
 
 Python 版本 ：3.6.3
