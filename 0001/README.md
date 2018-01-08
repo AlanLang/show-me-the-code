@@ -19,7 +19,7 @@ def generateCode(num):
     return list
 
 if __name__ == "__main__":
-    codes = generateCode(20000)
+    codes = generateCode(200)
     code_file = open('gencodes.txt', 'w')
     for code in codes:
         code_file.write(str(code) + "\n")
