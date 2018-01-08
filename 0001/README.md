@@ -26,5 +26,4 @@ if __name__ == "__main__":
     code_file.close()
 ```
 ### 效果
-cat gencodes.txt
 ![](http://oqdzx28cd.bkt.clouddn.com/18-1-8/8933734.jpg)
