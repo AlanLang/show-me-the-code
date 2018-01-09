@@ -13,8 +13,7 @@ systemctl start mariadb.service
 ```
 ### 登陆MySql
 ```
-mysql -u root -p password
-mysql -h 192.168.10.130 -uroot -p
+mysql -u root -p
 ```
 ### 授权远程连接
 ```
