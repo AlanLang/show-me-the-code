@@ -1,6 +1,7 @@
 ## 题目
 将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。
-
+## MySql学习
+[MySql教程|菜鸟教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 ## 安装MySql
 ```
 yum install mysql
